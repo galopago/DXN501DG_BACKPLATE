@@ -13,3 +13,14 @@ Backplate fabrication files for DEXON (now Schneider Electric) DXN501DG Box meta
 
 ## svg template
 ![PAPERTEMPLATE](/assets/svg/DXN501DG_6_DRILLS_30MM_CLEARANCE_SIDE_B.svg)
+
+## How to use this repository
+
+The plate was developed in KiCad V5.1,
+
+## Directory structure
+
+* The root folder contains template KiCad files: project and board
+* /assets/dxf laser cut manufacture files
+* /assets/svg drilling templates
+* /assets/img pictures
