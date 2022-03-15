@@ -24,3 +24,4 @@ The plate was developed in KiCad V5.1,
 * /assets/dxf laser cut manufacture files
 * /assets/svg drilling templates
 * /assets/img pictures
+
